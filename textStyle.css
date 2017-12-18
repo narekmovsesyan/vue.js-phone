@@ -1,0 +1,133 @@
+/*Left Panel  */
+.background-style{
+    height: 495px;
+    width: 288px;
+    text-align: center;
+    background-color: #A8DBD7;
+}
+.text-p-style{
+    width: 287px;
+    height: 74px;
+    overflow-x: hidden;
+    word-break: break-all;
+    padding-top: 15px
+}
+.phone-menu-parent{
+    width: 222px;
+    height:46px;
+    position: absolute;
+    margin: 74px 19px;
+}
+.phone-menu-child{
+    color: rgba(246, 245, 255, 0.88);
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    margin:15px 15px
+}
+.phone-menu-next{
+    color: #347BB7;
+    margin-left:55px;
+ }
+.phone-down-menu{
+    width: 221px;
+    height:76px;
+    position: absolute;
+    bottom: 0px;
+    left:47px;
+    color: white;
+ }
+.phone-down-menu-left-icon{
+    position: absolute;
+    margin: 28px 2px;
+ }
+.phone-down-menu-right-icon{
+    position: absolute;
+    right:0;
+    margin: 28px 0px;
+ }
+
+
+/*Right Panel*/
+.right-big-div{
+    height: 500px;
+}
+.title-style{
+    font-size: 19px;
+    border-bottom: 1px solid #c9c9c9;
+}
+.div-distance{
+    padding-top: 8px;
+}
+
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.italic{
+    font-style: italic;
+}
+
+/*image style LAYOUT1*/
+.phone-image-black{
+    background-image: url("src/assets/iphone6black.png");
+    height: 100%;
+    margin-left: 13px;
+    background-repeat: no-repeat;
+}
+.phone-image-white{
+    background-image: url("src/assets/iphone6white.png");
+    height: 100%;
+    margin-left: 13px;
+    background-repeat: no-repeat;
+}
+
+
+.font-style-helvetica-neue{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.font-style-fantasy{
+    font-family: fantasy;
+}
+.font-style-cursive{
+    font-family: cursive;
+}
+.font-style-monospace{
+    font-family: monospace;
+}
+.font-style-helvetica-neue{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.font-style-helvetica-neue{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.font-size-13{
+    font-size: 13px;
+}
+.font-size-14{
+    font-size: 14px;
+}
+.font-size-15{
+    font-size: 15px;
+}
+.font-size-17{
+    font-size: 17px;
+}
+.font-size-19{
+    font-size: 19px;
+}
+.font-weight-400{
+    font-weight: 400;
+}
+.font-weight-900{
+    font-weight: 900;
+}
+.font-weight-bolder{
+    font-weight: bolder;
+}
+
